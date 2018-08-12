@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+de.fegbers.spring.dependencies.autoconfigure.ProjectDependenciesInfoAutoConfiguration,\
+de.fegbers.spring.dependencies.autoconfigure.InfoDependenciesConstributorAutoConfiguration
